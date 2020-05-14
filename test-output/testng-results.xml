@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22587" started-at="2020-05-14T12:35:56 EET" finished-at="2020-05-14T12:36:18 EET">
+    <groups>
+    </groups>
+    <test name="RegisterationFormTest" duration-ms="22587" started-at="2020-05-14T12:35:56 EET" finished-at="2020-05-14T12:36:18 EET">
+      <class name="registerPackage.AllFieldsMandatoryTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:registerPackage.AllFieldsMandatoryTest@6737fd8f]" name="init" is-config="true" duration-ms="15399" started-at="2020-05-14T12:35:56 EET" finished-at="2020-05-14T12:36:11 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateAllFieldsMandatory(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registerPackage.AllFieldsMandatoryTest@6737fd8f]" name="validateAllFieldsMandatory" duration-ms="1194" started-at="2020-05-14T12:36:12 EET" data-provider="getData" finished-at="2020-05-14T12:36:13 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mohammed]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567891]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mo@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllFieldsMandatory -->
+        <test-method status="PASS" signature="validateAllFieldsMandatory(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registerPackage.AllFieldsMandatoryTest@6737fd8f]" name="validateAllFieldsMandatory" duration-ms="1040" started-at="2020-05-14T12:36:13 EET" data-provider="getData" finished-at="2020-05-14T12:36:14 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mohammed]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567891]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mo@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllFieldsMandatory -->
+        <test-method status="PASS" signature="validateAllFieldsMandatory(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registerPackage.AllFieldsMandatoryTest@6737fd8f]" name="validateAllFieldsMandatory" duration-ms="835" started-at="2020-05-14T12:36:14 EET" data-provider="getData" finished-at="2020-05-14T12:36:15 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mohammed]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fathy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mo@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllFieldsMandatory -->
+        <test-method status="PASS" signature="validateAllFieldsMandatory(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registerPackage.AllFieldsMandatoryTest@6737fd8f]" name="validateAllFieldsMandatory" duration-ms="816" started-at="2020-05-14T12:36:15 EET" data-provider="getData" finished-at="2020-05-14T12:36:16 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mohammed]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fathy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567891]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllFieldsMandatory -->
+        <test-method status="PASS" signature="validateAllFieldsMandatory(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registerPackage.AllFieldsMandatoryTest@6737fd8f]" name="validateAllFieldsMandatory" duration-ms="811" started-at="2020-05-14T12:36:16 EET" data-provider="getData" finished-at="2020-05-14T12:36:17 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mohammed]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fathy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567891]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mo@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllFieldsMandatory -->
+        <test-method status="PASS" signature="validateAllFieldsMandatory(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registerPackage.AllFieldsMandatoryTest@6737fd8f]" name="validateAllFieldsMandatory" duration-ms="784" started-at="2020-05-14T12:36:17 EET" data-provider="getData" finished-at="2020-05-14T12:36:18 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mohammed]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fathy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567891]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mo@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllFieldsMandatory -->
+        <test-method status="PASS" signature="validateAllFieldsMandatory(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registerPackage.AllFieldsMandatoryTest@6737fd8f]" name="validateAllFieldsMandatory" duration-ms="596" started-at="2020-05-14T12:36:18 EET" data-provider="getData" finished-at="2020-05-14T12:36:18 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllFieldsMandatory -->
+        <test-method status="PASS" signature="end()[pri:0, instance:registerPackage.AllFieldsMandatoryTest@6737fd8f]" name="end" is-config="true" duration-ms="123" started-at="2020-05-14T12:36:18 EET" finished-at="2020-05-14T12:36:18 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- registerPackage.AllFieldsMandatoryTest -->
+    </test> <!-- RegisterationFormTest -->
+  </suite> <!-- Suite -->
+</testng-results>
